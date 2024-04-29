@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Stack-overflow-Clone",
+    "imageSrc": "projects/Stack overflow clone.png",
+    "description": "It is a question and answer website for programmers.",
+    "skills": ["HTML", "CSS", "JavaScript", "Mern"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/sonamyadav6942/StackOverflow-Clone"
+  },
+  {
+    "title": "E-Commerce Website",
+    "imageSrc": "projects/E-commerce.png",
+    "description": "An e-commerce platform for buying and selling goods.",
+    "skills": ["HTML", "CSS","React","JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/sonamyadav6942/Bazaar"
+  },
+  {
+    "title": "React Portfolio Website",
+    "imageSrc": "projects/Personal Portfolio Website.png",
+    "description": "Dynamic portfolio website showcasing web projects. Responsive design for all devices.",
+    "skills": ["React", "HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

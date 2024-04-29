@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Machine Learning Intern",
+    "organisation": "Continual Engine Pvt. Ltd.",
+    "startDate": "Aug, 2023",
+    "endDate": "Feb, 2024",
+    "experiences": ["Spearheaded the data annotation process ensuring accurate labeling of datasets crucial for machine learning model training"],
+    "imageSrc": "history/continualengine.png"
+  },
+  {
+    "role": "Web Development Intern",
+    "organisation": "NullClass",
+    "startDate": "Jan, 2023",
+    "endDate": "Mar, 2023",
+    "experiences": ["Developed a stack overflow clone website with technologies like HTML, CSS, JavaScript, ReactJS and MongoDB"],
+    "imageSrc": "history/nullclass.png"
+  }
+]
