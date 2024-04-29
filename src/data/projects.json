@@ -20,7 +20,7 @@
     "imageSrc": "projects/Personal Portfolio Website.png",
     "description": "Dynamic portfolio website showcasing web projects. Responsive design for all devices.",
     "skills": ["React", "HTML", "CSS", "JavaScript"],
-    "demo": "https://www.example.com",
+    "demo": "https://react-portfolio-webs.netlify.app/",
     "source": "https://github.com/sonamyadav6942/React-Portfolio-Website"
   }
 ]
