@@ -4,23 +4,23 @@
     "imageSrc": "projects/Stack overflow clone.png",
     "description": "It is a question and answer website for programmers.",
     "skills": ["HTML", "CSS", "JavaScript", "Mern"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/sonamyadav6942/StackOverflow-Clone"
+    "demo": "https://sonamyadav6942.github.io/Stack-overflow-Clone1/",
+    "source": "https://github.com/sonamyadav6942/Stack-overflow-Clone1"
   },
   {
     "title": "E-Commerce Website",
     "imageSrc": "projects/E-commerce.png",
     "description": "An e-commerce platform for buying and selling goods.",
     "skills": ["HTML", "CSS","React","JavaScript"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/sonamyadav6942/Bazaar"
+    "demo": "https://e-commerce-website-web.netlify.app/",
+    "source": "https://github.com/sonamyadav6942/E-Commerce-Website"
   },
   {
-    "title": "React Portfolio Website",
-    "imageSrc": "projects/Personal Portfolio Website.png",
-    "description": "Dynamic portfolio website showcasing web projects. Responsive design for all devices.",
-    "skills": ["React", "HTML", "CSS", "JavaScript"],
-    "demo": "https://react-portfolio-webs.netlify.app/",
-    "source": "https://github.com/sonamyadav6942/React-Portfolio-Website"
+    "title": "Email-Validator",
+    "imageSrc": "projects/Email-Validator.png",
+    "description": "This tool helps you verify the existence of entered email addresses.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://sonamyadav6942.github.io/Email-Validator-with-HTML-CSS-and-JavaScript/",
+    "source": "https://github.com/sonamyadav6942/Email-Validator-with-HTML-CSS-and-JavaScript"
   }
 ]
