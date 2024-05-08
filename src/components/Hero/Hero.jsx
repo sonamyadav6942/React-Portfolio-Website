@@ -11,10 +11,10 @@ export const Hero = () => {
           I'm a Front-end developer. Reach out if you'd like to learn more!
         </p>
         <div className={styles.buttons}>
-          <a href="mailto:sonamyadados@gmail.com" className={styles.contactBtn}>
+          <a target="_blank" href="mailto:sonamyadados@gmail.com" className={styles.contactBtn}>
             Contact Me
           </a>
-          <a
+          <a target="_blank"
             href=""
             download="Sonam_Resume.pdf"
             className={`${styles.contactBtn} ${styles.resumeBtn}`}
