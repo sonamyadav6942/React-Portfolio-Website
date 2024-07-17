@@ -15,7 +15,7 @@ export const Hero = () => {
             Contact Me
           </a>
           <a target="_blank"
-            href="https://drive.google.com/file/d/1rCHTuxCcDP4GOgyXSdIf1YZAuyU-S8bS/view?usp=sharing"
+            href="https://drive.google.com/file/d/1ntV4jamuL5gL5KWxAlMAZ-IbPt957i17/view?usp=sharing"
             download="Sonam_Resume.pdf"
             className={`${styles.contactBtn} ${styles.resumeBtn}`}
           >
